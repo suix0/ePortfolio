@@ -32,12 +32,6 @@ The website uses a carefully selected color palette:
 - Font Awesome
 - Formspree (for contact form)
 
-## 📝 Contact
-Feel free to reach out through:
-- The contact form on the website
-- [GitHub](https://github.com/Suix0)
-- [LinkedIn](https://linkedin.com/in/your-username)
-
 ## 📄 License
 © 2024 All rights reserved.
 
